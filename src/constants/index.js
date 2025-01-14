@@ -23,7 +23,7 @@ import {
     carrent,
     jobit,
     tripguide,p1,
-    threejs,face,gemini
+    threejs,face,gemini,apple
   } from "../assets";
   
   export const navLinks = [
@@ -203,6 +203,27 @@ import {
   ];
   
   const projects = [
+    {
+      name: "iPhone 15 Website",
+      description:
+        "A responsive iPhone 15 website built using React, Tailwind CSS, Three.js, and GSAP, showcasing interactive 3D animations and smooth transitions. Integrated Sentry for performance monitoring, ensuring an optimized user experience.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "gsap",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: apple,
+      source_code_link: "https://github.com/Rayan-360/iPhone15_website",
+    },
     {
       name: "Multi-level Face recognition",
       description:

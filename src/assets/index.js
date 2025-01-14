@@ -8,6 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import logo_1 from "./logo_1.jpg";
 
+import apple from './apple.jpg'
 import p1 from "./p1.jpg";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -64,5 +65,5 @@ export {
   jobit,
   tripguide,
   logo_1,
-  gsap,p1,face,gemini
+  gsap,p1,face,gemini,apple
 };
