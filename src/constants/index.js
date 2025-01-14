@@ -267,7 +267,7 @@ import {
       source_code_link: "https://github.com/Rayan-360/Gemini_clone",
     },
     {
-      name: "Nike Landing Page",
+      name: "Nike-Landing Page",
       description:
         "This project is a visually captivating Nike landing page built with modern web development tools and techniques. It serves as a showcase of creative design, responsive layouts, and interactive features.",
       tags: [
